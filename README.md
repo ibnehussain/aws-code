@@ -1,5 +1,5 @@
 # aws-code
-==========>For Linux use:
+# For Linux use:
 
          $ sudo yum update -y
 --------> For Sql-client
@@ -9,13 +9,15 @@
 
 	 $ sudo yum install python-pip -y
 	 $ sudo pip install flask pymysql boto3
+	 
 -------->For running application
 
          $ sudo python EmpApp.py
 
-==========>For Ubuntu use:
+# For Ubuntu use:
 
          $ sudo apt-get update
+	 
 -------->For Sql-client
 
          $ sudo apt-get install mysql-client
