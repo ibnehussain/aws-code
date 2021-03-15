@@ -7,10 +7,10 @@
          $ sudo yum install mysql -y
 -------->For python and related frameworks
 
-	sudo yum install python3 -y
-	sudo python3 -m pip install PyMySQL
-	sudo python3 -m pip install boto3
-	sudo python3 -m pip install flask
+	 $ sudo yum install python3 -y
+	 $ sudo python3 -m pip install PyMySQL
+	 $ sudo python3 -m pip install boto3
+	 $ sudo python3 -m pip install flask
 	 
 -------->For running application
 
